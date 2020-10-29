@@ -1,2 +1,2 @@
-#thus is my project
+# this is my project
 הבהרות על מבנה הפרויקט
